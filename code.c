@@ -10,5 +10,7 @@ int main()
  {
     printf("%d\n",i);
  }
+
+ printf("Thankyou..!\n");
     return 0;
 }
